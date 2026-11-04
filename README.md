@@ -166,7 +166,7 @@ This project demonstrates practical understanding of:
 
 B.Tech Computer Science Engineering
 
-GitHub: [selwaraju]((https://github.com/selwaraju12))
+GitHub: [selwaraju12]((https://github.com/selwaraju12))
 
 ---
 
