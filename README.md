@@ -162,7 +162,7 @@ This project demonstrates practical understanding of:
 
 ## 👨‍💻 Author
 
-**Ashish Dhanala**
+**Selwa Raju Dasari
 
 B.Tech Computer Science Engineering
 
